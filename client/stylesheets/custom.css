@@ -1,0 +1,68 @@
+
+
+.white_bck .logo a .char5, .char6, .char7, .char8, .char9{
+    color: #d20606;
+}
+
+.white_bck .logo a {
+    color: #f7820d;
+}
+
+
+div.icon p{
+  color: #FFFFFF;
+}
+
+.font-black {
+  color: black !important;
+}
+
+/*--
+ul li{
+   color:#6f6f6f;
+}
+*/
+
+.checklist i{
+  margin-right: 10px;
+  color:green;
+}
+
+.checklist i.fa-circle{
+  font-size:5px;
+}
+
+.vcenter{
+  padding-top:240px;
+}
+
+li i.fa-circle{
+  font-size:5px;
+  margin-right:10px;
+} 
+
+
+.sub_menu a.active:before {
+  background-color:#f7820d; 
+}
+
+.vermelho{
+  color: #d20606;
+}
+
+.laranja{
+  color: #f7820d;
+}
+
+.logo-box:{
+  padding: 10px !important;
+  height:350px !important;
+}
+
+.footer_end{
+  margin-top:0px;
+}
+
+.grande{
+  font-size:150px;
+}
